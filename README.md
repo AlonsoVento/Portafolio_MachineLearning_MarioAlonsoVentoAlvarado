@@ -41,7 +41,7 @@ El notebook espera el archivo `EastWestAirlinesNN.csv` en una ruta específica d
 
 1. Sube el archivo a tu Google Drive, por ejemplo en la ruta:
 
-/Mi Unidad/Portafolio Machine Learning - Mario Vento/Caso Aplicativo - West Airlines/Data West Airlines/
+    /Mi Unidad/Portafolio Machine Learning - Mario Vento/Caso Aplicativo - West Airlines/Data West Airlines/
 
 2. En el notebook, monta tu Drive ejecutando la celda:
 
