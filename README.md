@@ -8,15 +8,15 @@ Este repositorio contiene dos notebooks de Google Colab desarrollados como parte
 ## 📁 Estructura del repositorio
 
 📁 Portafolio_MachineLearning_MarioAlonsoVentoAlvarado/
-├── 📁 AprendizajeSupervisado/
-│   ├── 🎁 EastWestAirlinesNN.csv
-│   ├── 💻 fichero.sql
-│   └── 📓 MarioAlonsoVentoAlvarado_MachineLearning_AprendizajeSupervisado.ipynb
-├── 📁 AprendizajeNoSupervisado/
-│   ├── 🎁 ecommerce_customers.xlsx
-│   ├── 💻 fichero.sql
-│   └── 📓 MarioAlonsoVentoAlvarado_MachineLearning_ModelosNoSupervisado.ipynb
-└── 📄 README.md
+- `AprendizajeSupervisado/` 📂
+  - `EastWestAirlinesNN.csv` 🎁 – Datos de clientes de la aerolínea
+  - `fichero.sql` 💻 – Script SQL auxiliar
+  - `MarioAlonsoVentoAlvarado_MachineLearning_AprendizajeSupervisado.ipynb` 📓
+- `AprendizajeNoSupervisado/` 📂
+  - `ecommerce_customers.xlsx` 🎁 – Datos de clientes del e‑commerce
+  - `fichero.sql` 💻 – Script SQL auxiliar
+  - `MarioAlonsoVentoAlvarado_MachineLearning_ModelosNoSupervisado.ipynb` 📓
+- `README.md` 📄
 
 ## 📦 Requisitos
 
@@ -54,7 +54,7 @@ El notebook espera el archivo `EastWestAirlinesNN.csv` en una ruta específica d
 
 💡Nota: Si prefieres otra ubicación, modifica la ruta en la celda correspondiente. También puedes subir el archivo directamente a Colab usando files.upload(), pero el notebook está configurado para usar Drive.
 
-####⚙️ Ejecución
+#### ⚙️ Ejecución
 Ejecuta todas las celdas en orden. El notebook incluye:
 - Análisis exploratorio de datos (EDA)
 - Preprocesamiento (log1p, escalado, one‑hot encoding, SMOTE)
@@ -78,7 +78,7 @@ uploaded = files.upload()
 3. Una vez subido, el archivo se lee con:
    df = pd.read_excel('ecommerce_customers.xlsx')
 
-####⚙️ Ejecución
+#### ⚙️ Ejecución
 Ejecuta todas las celdas secuencialmente. El notebook realiza:
 - Análisis exploratorio de datos (EDA)
 - Preprocesamiento (escalado y one‑hot encoding)
