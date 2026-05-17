@@ -1,7 +1,7 @@
 # Portafolio_MachineLearning_MarioAlonsoVentoAlvarado
 Portafolio de Machine Learning en el cual entreno y evalúo modelos de  clasificación binaria  (aprendizaje Supervisado) y modelos de clusterización de datos (aprendizaje No Supervisado ) empleando Python y sus librerías asociadas, considerando algoritmos como regresión lineal y logística, árboles de decisión, técnicas ensemble K-Means y DBScan.
 
-Este repositorio contiene dos notebooks de Google Colab desarrollados como parte de una especialización en Machine Learning. Los proyectos abordan problemas de:
+Este repositorio contiene dos notebooks de Google Colab los cuales abordan problemas de:
 - 🎯 **Aprendizaje Supervisado** – Predicción de ventas para una aerolínea (*WestAirlines*)
 - 🔍 **Aprendizaje No Supervisado** – Segmentación de clientes para un *e‑commerce*
 
