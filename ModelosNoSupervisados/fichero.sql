@@ -1,1 +1,1 @@
-Carpeta que contiene portafolio correspondiente a la evaluación y entrenamiento de modelos No_Supervisados.
+Carpeta que contiene la data para realizar la evaluación y entrenamiento de los modelos.
