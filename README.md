@@ -6,16 +6,17 @@ Este repositorio contiene dos notebooks de Google Colab desarrollados como parte
 - 🔍 **Aprendizaje No Supervisado** – Segmentación de clientes para un *e‑commerce*
 
 ## 📁 Estructura del repositorio
-.
-├── AprendizajeSupervisado/
-│ ├── EastWestAirlinesNN.csv # 🗃️ Datos de clientes de la aerolínea
-│ ├── fichero.sql # 🛠️ Script SQL auxiliar
-│ └── MarioAlonsoVentoAlvarado_MachineLearning_AprendizajeSupervisado.ipynb
-├── AprendizajeNoSupervisado/
-│ ├── ecommerce_customers.xlsx # 📊 Datos de clientes del e‑commerce
-│ ├── fichero.sql # 🛠️ Script SQL auxiliar
-│ └── MarioAlonsoVentoAlvarado_MachineLearning_ModelosNoSupervisado.ipynb
-└── README.md
+
+📁 Portafolio_MachineLearning_MarioAlonsoVentoAlvarado/
+├── 📁 AprendizajeSupervisado/
+│   ├── 🎁 EastWestAirlinesNN.csv
+│   ├── 💻 fichero.sql
+│   └── 📓 MarioAlonsoVentoAlvarado_MachineLearning_AprendizajeSupervisado.ipynb
+├── 📁 AprendizajeNoSupervisado/
+│   ├── 🎁 ecommerce_customers.xlsx
+│   ├── 💻 fichero.sql
+│   └── 📓 MarioAlonsoVentoAlvarado_MachineLearning_ModelosNoSupervisado.ipynb
+└── 📄 README.md
 
 ## 📦 Requisitos
 
@@ -85,6 +86,7 @@ Ejecuta todas las celdas secuencialmente. El notebook realiza:
 - Prueba de DBSCAN
 - Perfilado de los 3 clusters obtenidos con visualizaciones: radar, boxplots, barras
 
-##📌 Notas importantes
+## 📌 Notas importantes
+
 - Los resultados de los modelos (métricas, gráficos, etc.) se muestran dentro de los notebooks.
 - Si encuentras errores de rutas o permisos, verifica que los archivos de datos estén en las ubicaciones esperadas.
